@@ -1,5 +1,7 @@
 # Character Creation Workshop
 
+Live project at `https://character-creator-one.vercel.app`
+
 In this workshop, you'll build a Sims-style character creation screen.
 
 ## Mockups
